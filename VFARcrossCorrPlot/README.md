@@ -25,4 +25,4 @@ price"
 
 ```
 
-![Picture1](crossCorrPlot.png)
+![Picture1](VFARcrossCorrPlot.png)
