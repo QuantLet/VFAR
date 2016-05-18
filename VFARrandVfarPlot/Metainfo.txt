@@ -1,0 +1,19 @@
+Name of Quantlet : VFARrandVfarPlot
+
+Published in : Unpublished; VFAR
+
+Description : 'Plot estimated bid ask curve using VFAR approach for AEZS with LOB data from 
+02Jan2015 till 06Mar2015'
+
+Keywords : 'LOB, VFAR, estimated bid ask curve'
+
+See also : 'VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandhStepForecastPlot, VFARqqPlot'
+
+Author : Ying Chen, Wee Song Chua, Wolfgang Karl Haerdle
+
+Submitted : Wed, May 18 2016 by Wee Song Chua
+
+Datafile : AEZS.mat, inSample.mat
+
+Example: 
+- Plot : "VFAR fitted bid and ask curve for AEZS at random time point"
