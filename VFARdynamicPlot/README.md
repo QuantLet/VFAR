@@ -20,7 +20,7 @@ Submitted : Wed, July 13 2016 by Wee Song Chua
 Datafile : AEZS.mat, 1step.mat, 5step.mat, 10step.mat
 
 Example: 
-- Plot : "dynamics of VFAR 1 steps ahead forecasted bid and ask curve for AEZS"
+- Plot : "Dynamics of VFAR 1 step ahead forecasted bid and ask curve for AEZS"
 
 ```
 
