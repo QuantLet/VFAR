@@ -7,7 +7,8 @@ with LOB data from 02Jan2015 till 06Mar2015'
 
 Keywords : 'plot, time-series, volatility, autoregressive, forecast'
 
-See also : 'VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot'
+See also : 'VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot, 
+VFARrandhStepForecastPlot'
 
 Author : Ying Chen, Wee Song Chua, Wolfgang Karl Haerdle
 
