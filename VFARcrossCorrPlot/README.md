@@ -11,7 +11,7 @@ Published in : Unpublished; VFAR
 Description : 'Estimates the sample cross correlation function between log-accumulated volumes at 
 best bid and ask price for AEZS from 02Jan2015 till 06Mar2015'
 
-Keywords : 'LOB, VFAR, cross correlation'
+Keywords : 'plot, time-series, correlation, data visualization, visualization'
 
 See also : 'VFARrandBidAskCurvePlot, VFARrandVfarPlot, VFARrandhStepForecastPlot, VFARqqPlot'
 
