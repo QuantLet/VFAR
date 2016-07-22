@@ -1,4 +1,6 @@
-## **VFARcrossCorrPlot**
+[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **VFARdynamicPlot** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 ```yaml
 
@@ -9,7 +11,7 @@ Published in : Unpublished; VFAR
 Description : 'Plot dynamics of forecasted bid ask curve using VFAR approach for AEZS 
 with LOB data from 02Jan2015 till 06Mar2015'
 
-Keywords : 'LOB, VFAR, forecasted bid ask curve'
+Keywords : 'plot, time-series, volatility, autoregressive, forecast'
 
 See also : 'VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot'
 
