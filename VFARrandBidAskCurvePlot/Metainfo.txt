@@ -5,7 +5,7 @@ Published in : Unpublished; VFAR
 Description : 'Plot bid ask curve for AEZS at random time point with LOB data from 
 02Jan2015 till 06Mar2015'
 
-Keywords : 'LOB, VFAR, bid ask curve'
+Keywords : 'LOB, Limit Order Book, plot, time-series, volatility'
 
 See also : 'VFARcrossCorrPlot, VFARrandVfarPlot, VFARrandhStepForecastPlot, VFARqqPlot'
 
