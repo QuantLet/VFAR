@@ -9,8 +9,7 @@ Name of Quantlet : VFARbenefitPlot
 
 Published in : Unpublished; VFAR
 
-Description : 'Plot benefit of strategic placement of orders according to VFAR predictions 
-over equal-splitting strategy'
+Description : 'Plot benefit of strategic placement of orders according to VFAR predictions over equal-splitting strategy'
 
 Keywords : 'LOB, VFAR, order execution'
 
