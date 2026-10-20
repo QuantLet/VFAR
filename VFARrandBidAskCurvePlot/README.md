@@ -9,7 +9,7 @@ Name of Quantlet: VFARrandBidAskCurvePlot
 
 Published in: Unpublished; VFAR
 
-Description: Plots bid ask curve for AEZS at random time point with LOB data from
+Description: Plots bid ask curve for AEZS at random time point with LOB data from 02Jan2015 till 06Mar2015
 
 Keywords: LOB, Limit Order Book, plot, time-series, volatility
 
