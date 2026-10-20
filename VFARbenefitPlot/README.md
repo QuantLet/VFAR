@@ -22,7 +22,7 @@ Submitted: Sat, Mar 11 2017 by Wee Song Chua
 Datafile: AEZSbenefit.mat
 
 Example: 
-- Plot : "Benefit of VFAR-implied strategy over equal-splitting strategy
+- Plot : "Benefit of VFAR-implied strategy over equal-splitting strategy"
 
 ```
 <div align="center">
