@@ -13,7 +13,7 @@ Description: Produces QQ plot for residuals using VFAR approach for AEZS with LO
 
 Keywords: plot, time-series, autoregressive, estimation, qq-plot
 
-See also: VFARcrossCorrPlot, VFARrandVfarPlot, VFARrandhStepForecastPlot
+See also: VFARcrossCorrPlot, VFARrandVfarPlot, VFARrandhStepForecastPlot VFARrandBidAskCurvePlot
 
 Author: Ying Chen, Wee Song Chua, Wolfgang Karl Haerdle
 
