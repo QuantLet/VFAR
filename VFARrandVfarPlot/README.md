@@ -9,7 +9,7 @@ Name of Quantlet: VFARrandVfarPlot
 
 Published in: Unpublished; VFAR
 
-Description: Plot estimated bid ask curve using VFAR approach for AEZS with LOB data from
+Description: Plot estimated bid ask curve using VFAR approach for AEZS with LOB data from 02Jan2015 till 06Mar2015
 
 Keywords: plot, time-series, volatility, autoregressive, estimation
 
@@ -22,7 +22,7 @@ Submitted: Wed, May 18 2016 by Wee Song Chua
 Datafile: AEZS.mat, inSample.mat
 
 Example: 
-- Plot : "VFAR fitted bid and ask curve for AEZS at random time point
+- Plot : "VFAR fitted bid and ask curve for AEZS at random time point"
 
 ```
 <div align="center">
