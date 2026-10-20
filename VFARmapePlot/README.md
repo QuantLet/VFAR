@@ -22,7 +22,7 @@ Submitted: Sat, Mar 11 2017 by Wee Song Chua
 Datafile: AEZSmultiforecast.mat
 
 Example: 
-- Plot : "MAPE implied by VFAR approach and Random Walk approach for multiple step forecasts
+- Plot : "MAPE implied by VFAR approach and Random Walk approach for multiple step forecasts"
 
 ```
 <div align="center">
