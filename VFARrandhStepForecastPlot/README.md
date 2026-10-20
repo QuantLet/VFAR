@@ -13,7 +13,7 @@ Description: Plots forecasted bid ask curve using VFAR approach for AEZS with LO
 
 Keywords: plot, time-series, volatility, autoregressive, forecast
 
-See also: VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot,
+See also: VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot, VFARdynamicPlot
 
 Author: Ying Chen, Wee Song Chua, Wolfgang Karl Haerdle
 
