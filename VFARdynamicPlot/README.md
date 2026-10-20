@@ -13,7 +13,7 @@ Description: Plots dynamics of forecasted bid ask curve using VFAR approach for 
 
 Keywords: plot, time-series, volatility, autoregressive, forecast
 
-See also: VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot,
+See also: VFARrandBidAskCurvePlot, VFARcrossCorrPlot, VFARrandVfarPlot, VFARqqPlot, VFARrandhStepForecastPlot
 
 Author: Ying Chen, Wee Song Chua, Wolfgang Karl Haerdle
 
